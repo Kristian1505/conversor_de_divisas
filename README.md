@@ -1,12 +1,18 @@
-Conversor de Divisas 💱
-Este proyecto es un conversor de divisas desarrollado en Java que permite realizar conversiones entre diferentes monedas de manera sencilla y rápida. El programa utiliza la API de tasas de cambio para obtener valores actualizados y garantiza la precisión de las conversiones.
+# 💱 Conversor de Divisas en Java
 
-Funcionalidades 🚀
-Conversión de Dólar estadounidense (USD) a las siguientes monedas y viceversa:
-Peso argentino (ARS)
-Boliviano (BOB)
-Peso chileno (CLP)
-Peso mexicano (MXN)
-Cálculos basados en tasas de cambio actuales.
-Interfaz en consola fácil de usar.
-Opciones para seleccionar monedas y realizar conversiones múltiples en una sola ejecución.
+¡Bienvenido a **Conversor de Divisas**! Este proyecto permite realizar conversiones rápidas y precisas entre varias monedas utilizando tasas de cambio actualizadas. 🌍
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Conversión entre las siguientes monedas:
+  - **Dólar estadounidense (USD)** ↔️ **Peso argentino (ARS)**
+  - **Dólar estadounidense (USD)** ↔️ **Boliviano (BOB)**
+  - **Dólar estadounidense (USD)** ↔️ **Peso chileno (CLP)**
+  - **Dólar estadounidense (USD)** ↔️ **Peso mexicano (MXN)**
+- 🔄 Cálculos basados en tasas de cambio actuales.
+- 🖥️ Interfaz de consola sencilla y fácil de usar.
+- 🔚 Salida del programa al seleccionar la opción correspondiente.
+
+---
